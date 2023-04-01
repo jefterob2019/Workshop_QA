@@ -1,0 +1,94 @@
+
+CSS
+* {
+  margin: 0; 
+  padding: 0;
+  box-sizing:border-box;
+}
+
+body{
+  
+  text-align:left;
+  background-image: linear-gradient(rgb(123, 147, 165));
+  opacity: 100%;
+ 
+  
+}
+
+h1
+{
+  text-align:left;
+  font-size: 28px;
+  font-family: sans-serif;
+  color: crimson;
+}
+
+h2
+{
+  text-align:left  ;
+  font-size:23px;
+  font-family: sans-serif;
+  display:inline-block
+  color:flex
+}
+
+h3
+{
+  text-align:left;
+  font-size: 19px;
+  font-family: sans-serif;
+}
+
+ol
+{
+  text-align:left;
+  font-size: 19px;
+  font-family: sans-serif;
+}
+
+ul
+{
+  text-align:left;
+  font-size: 19px;
+  font-family: sans-serif;
+}
+
+p
+{
+  
+  font-size: 19px;
+  font-family: sans-serif;
+  color: rgb(36, 13, 57);
+}
+
+img{
+
+    width: 320px;
+    height: 200px;
+}
+
+.estiloscorpo{
+
+    width: 960px;
+    height: 600px;
+    margin: auto;
+}
+
+.corpo{
+display: table;
+
+}
+
+.img{
+
+    display: table-cell;
+    float: left;
+}
+
+.texto{
+
+    display: table-cell;
+    float: left;
+    width: 300px;
+}
+
